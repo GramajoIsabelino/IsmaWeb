@@ -1,0 +1,74 @@
+[
+  {
+    "id": "nueva-york",
+    "title": "Nueva York",
+    "year": 2024,
+    "description": "Benjamín es un fotógrafo que trabaja en un bar de mala muerte en Montevideo, pero que sueña con irse a Nueva York. Un día se presenta a una exposición, con la idea de transformar su ciudad en la Gran Manzana a través de la fotografía. Ganador del premio a “Mejor Cortometraje” en el Festival Detour y Un Mes Corto (Uruguay). Mención especial en Seattle Latino Film Festival (USA) y estreno europeo en Festival Internacional du Film de Nancy (Francia). Cortometraje principal de la “Uruguayan Indie Shortfilm Night” en Bronxville, Nueva York (USA).",
+    "synopsis": "Benjamín es un fotógrafo que trabaja en un bar de mala muerte en Montevideo, pero que sueña con irse a Nueva York. Un día se presenta a una exposición, con la idea de transformar su ciudad en la Gran Manzana a través de la fotografía. Ganador del premio a “Mejor Cortometraje” en el Festival Detour y Un Mes Corto (Uruguay). Mención especial en Seattle Latino Film Festival (USA) y estreno europeo en Festival Internacional du Film de Nancy (Francia). Cortometraje principal de la “Uruguayan Indie Shortfilm Night” en Bronxville, Nueva York (USA).",
+    "backgroundImage": "/films/nueva-york/Nueva York - Poster.jpg",
+    "thumbnail": "/films/nueva-york/Still 3.jpg"
+  },
+  {
+    "id": "listen",
+    "title": "Listen",
+    "year": 2019,
+    "description": "Cortominuto sobre la paradoja de la atención y la escucha.Ganador del premio a “Mejor Cortometraje” en el Festival Internacional Piriápolis de Película (Uruguay) y Kinodrome (USA). Nominado como a la categoría “Mejor cortometraje del año” por la Asociación de Críticos de Cine del Uruguay. El cortometraje fue proyectado en más de 10 festivales en 4 continentes.",
+    "synopsis": "Cortominuto sobre la paradoja de la atención y la escucha.Ganador del premio a “Mejor Cortometraje” en el Festival Internacional Piriápolis de Película (Uruguay) y Kinodrome (USA). Nominado como a la categoría “Mejor cortometraje del año” por la Asociación de Críticos de Cine del Uruguay. El cortometraje fue proyectado en más de 10 festivales en 4 continentes.",
+    "backgroundImage": "/films/listen/Poster Inglés 5.0 Laur. 2 de nov. 2022.jpg",
+    "thumbnail": "/films/listen/vlcsnap-2026-06-30-15h21m52s703.jpg"
+  },
+  {
+    "id": "el-culepe",
+    "title": "El Culepe",
+    "year": 2022,
+    "description": "Un joven llega a su casa después del trabajo mientras evita ir a cenar a la casa de su madre. Cuando ingresa a su apartamento, encuentra que la puerta fue vulnerada y que alguien o algo, lo espera dentro. Cortometraje de suspenso y comedia proyectado en festivales de Uruguay, Argentina, Brasil y Estados Unidos.",
+    "synopsis": "Un joven llega a su casa después del trabajo mientras evita ir a cenar a la casa de su madre. Cuando ingresa a su apartamento, encuentra que la puerta fue vulnerada y que alguien o algo, lo espera dentro. Cortometraje de suspenso y comedia proyectado en festivales de Uruguay, Argentina, Brasil y Estados Unidos.",
+    "backgroundImage": "/films/el-culepe/THE_FRIGHT_POSTER_ESP_EL_CULEPE.jpg",
+    "thumbnail": "/films/el-culepe/The_fright_Still_1.png"
+  },
+  {
+    "id": "feriado",
+    "title": "Feriado",
+    "year": 2017,
+    "description": "Dos hermanos buscan desesperadamente un regalo para su madre, al haberse olvidado de su cumpleaños. Cortometraje de comedia en plano secuencia, parte del “Deafío en una toma” del Festival de Cine Nuevo Detour (Uruguay).",
+    "synopsis": "Dos hermanos buscan desesperadamente un regalo para su madre, al haberse olvidado de su cumpleaños. Cortometraje de comedia en plano secuencia, parte del “Deafío en una toma” del Festival de Cine Nuevo Detour (Uruguay).",
+    "backgroundImage": "/films/feriado/FERIADO PÓSTER.jpg",
+    "thumbnail": "/films/feriado/Frame IG 1.1 2.0.png"
+  },
+  {
+    "id": "feliz-aniversario",
+    "title": "Feliz Aniversario",
+    "year": 2021,
+    "description": "Eva y José, van a cenar a un caro restaurante por su aniversario, cuando una vieja conocida de ella los encuentra y pone en peligro el verdadero plan de la velada. Cortometraje estudiantil de la carrera de la Escuela de Cine del Uruguay. Parte de la selección oficial del concurso Direct TV Cinema (LATAM), del festival FLECBIRRI (Argentina) y del Filmmakers Showcase (USA).",
+    "synopsis": "Eva y José, van a cenar a un caro restaurante por su aniversario, cuando una vieja conocida de ella los encuentra y pone en peligro el verdadero plan de la velada. Cortometraje estudiantil de la carrera de la Escuela de Cine del Uruguay. Parte de la selección oficial del concurso Direct TV Cinema (LATAM), del festival FLECBIRRI (Argentina) y del Filmmakers Showcase (USA).",
+    "backgroundImage": "/films/feliz-aniversario/vlcsnap-2026-06-30-15h37m17s949.jpg",
+    "thumbnail": "/films/feliz-aniversario/vlcsnap-2026-06-30-15h37m34s177.jpg"
+  },
+  {
+    "id": "videoclip-maria",
+    "title": "Videoclip Maria",
+    "year": 2017,
+    "description": "Tras un incendio que destruye su taller, un escultor debe reconstruir no solo su arte, sino la memoria de quienes ya no están.",
+    "synopsis": "Una meditación visual sobre la creación y la pérdida. El fuego deja cenizas, pero también espacio para formas nuevas que ningún molde anterior podía contener.",
+    "backgroundImage": "/films/videoclip-maria/vlcsnap-2026-06-30-15h58m32s049.jpg",
+    "thumbnail": "/films/videoclip-maria/vlcsnap-2026-06-30-15h59m48s943.jpg"
+  },
+  {
+    "id": "estoy-fuera",
+    "title": "Estoy Fuera",
+    "year": 2017,
+    "description": "Tras un incendio que destruye su taller, un escultor debe reconstruir no solo su arte, sino la memoria de quienes ya no están.",
+    "synopsis": "Una meditación visual sobre la creación y la pérdida. El fuego deja cenizas, pero también espacio para formas nuevas que ningún molde anterior podía contener.",
+    "backgroundImage": "/films/renacer/background.svg",
+    "thumbnail": "/films/estoy-fuera/vlcsnap-2026-07-25-13h33m59s348.png"
+  },
+  {
+    "id": "como-un-huracan",
+    "title": "Como un Huracan",
+    "year": 2017,
+    "description": "Tras un incendio que destruye su taller, un escultor debe reconstruir no solo su arte, sino la memoria de quienes ya no están.",
+    "synopsis": "Una meditación visual sobre la creación y la pérdida. El fuego deja cenizas, pero también espacio para formas nuevas que ningún molde anterior podía contener.",
+    "backgroundImage": "/films/como-un-huracan/POSTER CUH 8.0 - 16.9.jpg",
+    "thumbnail": "/films/como-un-huracan/POSTER CUH 8.0 LQ.jpg"
+  }
+]
