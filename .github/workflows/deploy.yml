@@ -19,5 +19,5 @@ jobs:
           script: |
             cd /home/gramajo/sites/IsmaWeb
             git pull
-            sudo docker compose -f /home/gramajo/compose.yaml build isma
-            sudo docker compose -f /home/gramajo/compose.yaml up -d isma
+            docker compose -f /home/gramajo/compose.yaml build isma
+            docker compose -f /home/gramajo/compose.yaml up -d isma
